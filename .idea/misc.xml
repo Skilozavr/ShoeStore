@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/AndroidStudioProjects/ShoeStore/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1585" />
         <entry key="..\:/Android/AndroidStudioProjects/ShoeStore/app/src/main/res/layout/fragment_add_shoe.xml" value="0.2" />
+        <entry key="..\:/Android/AndroidStudioProjects/ShoeStore/app/src/main/res/layout/fragment_shoe_list.xml" value="0.21965579710144928" />
+        <entry key="..\:/Android/AndroidStudioProjects/ShoeStore/app/src/main/res/layout/item_shoe.xml" value="0.21965579710144928" />
       </map>
     </option>
   </component>
